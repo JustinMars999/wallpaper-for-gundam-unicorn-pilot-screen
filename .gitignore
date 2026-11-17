@@ -1,0 +1,9 @@
+/build/
+/.venv/
+/node_modules/
+__pycache__/
+*.py[cod]
+*.mp4
+source-bank.png
+menu-edges.png
+*.partial

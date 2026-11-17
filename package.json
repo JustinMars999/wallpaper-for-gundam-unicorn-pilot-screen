@@ -1,0 +1,9 @@
+{
+  "name": "rx0-wallpaper-playback-check",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Optional browser playback verification for the RX-0 wallpaper",
+  "license": "GPL-3.0-only",
+  "scripts": { "check:loop": "node tools/check_playback.cjs" },
+  "devDependencies": { "playwright": "1.62.1" }
+}
